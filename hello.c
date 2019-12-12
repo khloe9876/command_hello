@@ -2,7 +2,8 @@
 
 int main(){
 	printf("hello world");
-	printf("git testing...");
+	printf("tell your wrold");
+	printf("tell her world");
 
 	return 0;
 }
