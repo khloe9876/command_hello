@@ -1,7 +1,9 @@
 #include <stdio.h>
 
+// For command line git tutorial
+// Github modification
+
 int main(){
-<<<<<<< HEAD
 	printf("hello world");
 	printf("tell your world");
 	printf("tell his world");
